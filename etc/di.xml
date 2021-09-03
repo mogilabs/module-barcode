@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <preference for="Jayreis\Barcode\Api\Data\BarcodeOptionsInterface"
+                type="Jayreis\Barcode\Model\Data\BarcodeOptions"/>
+    <preference for="Jayreis\Barcode\Model\Barcode\GenerateInterface"
+                type="Jayreis\Barcode\Model\Barcode\Generate"/>
+    <preference for="Jayreis\Barcode\Model\Barcode\GetImageStringInterface"
+                type="Jayreis\Barcode\Model\Barcode\GetImageString"/>
+</config>
