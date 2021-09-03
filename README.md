@@ -1,4 +1,4 @@
-# module-barcode
+# mogilabs/module-barcode
 Barcode generator action module
 
 ## Usage in CMS Pages
