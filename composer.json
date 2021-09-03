@@ -8,7 +8,7 @@
     "laminas/laminas-barcode": "^2.9"
   },
   "license": [
-    "Proprietary"
+    "BSD-3-Clause"
   ],
   "autoload": {
     "files": [
