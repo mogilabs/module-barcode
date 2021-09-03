@@ -1,5 +1,5 @@
 {
-  "name": "jayreis/module-barcode",
+  "name": "mogilabs/module-barcode",
   "version": "1.0.0",
   "description": "N/A",
   "type": "magento2-module",
@@ -15,7 +15,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Jayreis\\Barcode\\": ""
+      "Mogilabs\\Barcode\\": ""
     }
   }
 }

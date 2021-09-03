@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace Jayreis\Barcode\Model\Data;
+namespace Mogilabs\Barcode\Model\Data;
 
-use Jayreis\Barcode\Api\Data\BarcodeOptionsInterface;
+use Mogilabs\Barcode\Api\Data\BarcodeOptionsInterface;
 use Magento\Framework\DataObject;
 
 class BarcodeOptions extends DataObject implements BarcodeOptionsInterface

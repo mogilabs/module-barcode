@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Jayreis\Barcode\Model\Barcode;
+namespace Mogilabs\Barcode\Model\Barcode;
 
 use Laminas\Barcode\Renderer\Image;
 

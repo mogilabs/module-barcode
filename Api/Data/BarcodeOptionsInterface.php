@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Jayreis\Barcode\Api\Data;
+namespace Mogilabs\Barcode\Api\Data;
 
 interface BarcodeOptionsInterface
 {

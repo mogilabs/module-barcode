@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace Jayreis\Barcode\Model\Barcode;
+namespace Mogilabs\Barcode\Model\Barcode;
 
-use Jayreis\Barcode\Api\Data\BarcodeOptionsInterface;
+use Mogilabs\Barcode\Api\Data\BarcodeOptionsInterface;
 use Laminas\Barcode\Barcode;
 use Laminas\Barcode\Renderer\RendererInterface;
 use Laminas\Config\ConfigFactory;

@@ -1,12 +1,12 @@
 <?php
 declare(strict_types=1);
 
-namespace Jayreis\Barcode\Controller\Barcode;
+namespace Mogilabs\Barcode\Controller\Barcode;
 
-use Jayreis\Barcode\Api\Data\BarcodeOptionsInterface;
-use Jayreis\Barcode\Api\Data\BarcodeOptionsInterfaceFactory;
-use Jayreis\Barcode\Model\Barcode\GenerateInterface;
-use Jayreis\Barcode\Model\Barcode\GetImageStringInterface;
+use Mogilabs\Barcode\Api\Data\BarcodeOptionsInterface;
+use Mogilabs\Barcode\Api\Data\BarcodeOptionsInterfaceFactory;
+use Mogilabs\Barcode\Model\Barcode\GenerateInterface;
+use Mogilabs\Barcode\Model\Barcode\GetImageStringInterface;
 use Laminas\Barcode\Renderer\Image;
 use Magento\Framework\App\Action\HttpGetActionInterface;
 use Magento\Framework\App\RequestInterface;
